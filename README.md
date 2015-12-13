@@ -1,1 +1,1 @@
-# new-site-template
+# Blank website template (incl Gulp)
